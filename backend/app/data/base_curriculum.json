@@ -1,0 +1,43 @@
+{
+  "Python": ["Syntax and Variables", "Control Flow", "Functions", "OOP", "Modules and Packages"],
+  "Statistics": ["Descriptive Stats", "Probability", "Distributions", "Hypothesis Testing"],
+  "Machine Learning": ["Supervised vs Unsupervised", "Regression", "Classification", "Clustering", "Model Evaluation"],
+  "ML Algorithms": [
+  "Linear Regression",
+  "Logistic Regression",
+  "KNN",
+  "SVM",
+  "Decision Trees",
+  "Random Forest",
+  "XGBoost"
+],
+"Deep Learning": [
+  "Neural Networks Basics",
+  "Activation Functions",
+  "Backpropagation",
+  "CNNs",
+  "RNNs",
+  "Transfer Learning"
+],
+"Model Deployment": [
+  "Saving & Loading Models",
+  "Serving with FastAPI",
+  "Containerizing with Docker",
+  "CI/CD with GitHub Actions",
+  "Model Monitoring"
+],
+"Data Visualization": [
+  "Matplotlib Basics",
+  "Seaborn for Statistical Charts",
+  "Plotly for Interactive Dashboards",
+  "Dashboards with Streamlit",
+  "Exploratory Data Analysis (EDA)"
+],
+  "Frontend Frameworks": ["React Basics", "React Hooks", "State Management", "Next.js Intro"],
+  "Backend": ["Node.js Basics", "Express", "Routing & Middleware", "API Design"],
+  "Databases": ["Relational vs NoSQL", "PostgreSQL", "MongoDB", "ORMs"],
+  "Cloud Platforms": ["AWS Basics", "IAM & EC2", "S3", "Lambda Functions"],
+  "CI/CD": ["Git Basics", "GitHub Actions", "Docker", "Jenkins", "Kubernetes"],
+  "Projects": ["Build a Portfolio Website", "Clone Twitter UI", "Deploy a Flask App to Heroku"]
+}
+

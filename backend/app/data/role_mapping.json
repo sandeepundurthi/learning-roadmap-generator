@@ -1,1 +1,7 @@
 
+{
+  "Data Scientist": ["Python", "Statistics", "Data Visualization", "Machine Learning", "Projects"],
+  "Full Stack Developer": ["HTML/CSS", "JavaScript", "Frontend Frameworks", "Backend", "Databases", "Projects"],
+  "DevOps Engineer": ["Linux", "Scripting", "CI/CD", "Containers", "Cloud Platforms", "Monitoring", "Projects"],
+  "Machine Learning Engineer": ["Python", "ML Algorithms", "Deep Learning", "Model Deployment", "Projects"]
+}
