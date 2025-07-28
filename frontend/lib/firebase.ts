@@ -1,12 +1,14 @@
-
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+  apiKey: "AIzaSyBhLQPXDglORo3v7OWIjEKl9XT_E-SrgjY",
+  authDomain: "learning-roadmap-afbf3.firebaseapp.com",
+  projectId: "learning-roadmap-afbf3",
+  storageBucket: "learning-roadmap-afbf3.appspot.com", 
+  messagingSenderId: "780476225405",
+  appId: "1:780476225405:web:bd7ba0a41c8309d81a5e14"
 };
 
 const app = initializeApp(firebaseConfig);
