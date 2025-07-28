@@ -30,7 +30,7 @@ _Deploy it on Vercel (frontend) and Render (backend) or run locally (see below).
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/learning-roadmap-generator.git
+git clone https://github.com/sandeepundurthi/learning-roadmap-generator.git
 cd learning-roadmap-generator
 ```
 
