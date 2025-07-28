@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-// ✅ Use your freshly generated API key here
+
 const firebaseConfig = {
   apiKey: "AIzaSyDHmoBlSGHVQ4Fj90rSYS3OkKzDh_LN7Cw",
   authDomain: "learning-roadmap-afbf3.firebaseapp.com",
